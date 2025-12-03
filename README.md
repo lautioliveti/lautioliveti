@@ -8,8 +8,9 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at Universidad Nacional De la Matanza .\
 🌱 &nbsp;I'm on track for learning more about ASP.Net.\
+🎵 &nbsp;Outside of tech, I love listening to music, especially Charly García, Conociendo Rusia, and The Beatles.
 💬 &nbsp;I enjoy working with a team and making new friends.\
-✉️ &nbsp;You can shoot me an email at lautiolive1@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at lautiolive1@gmail.com! I'll try to respond as soon as I can.
 
 
 
